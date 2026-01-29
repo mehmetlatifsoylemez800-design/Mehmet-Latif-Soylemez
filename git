@@ -1,0 +1,5 @@
+Git İnit:Bir klasörü Git deposuna (repository) dönüştürür.Yani; Buradaki dosyaları artık versiyon kontrollü takip edeceksin.
+Git Status:Git deposunun şu anki durumunu gösterir.Yani; Projede neler değişti, neler commit'e hazır, neler henüz izlenmiyor?''
+Git Add:''Bu değişiklikleri kayda hazırlıyorum''demektir.
+Git Commit:Yaptığın değişikliklerin anlık fotoğrafını çekip Git geçmişine kaydetmek demektir.
+Gitignore:''Bu dosyaları görüyor olabilirsin ama takip etme, versiyon geçmişine ekleme.''Yani; depoda (repo) olmasını istemediğin dosyaları listelersin.
